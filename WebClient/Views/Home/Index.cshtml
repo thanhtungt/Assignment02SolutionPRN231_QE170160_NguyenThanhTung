@@ -20,6 +20,21 @@
 <hr />
 
 <div class="container">
+
+    <div class="container mt-3">
+        <div class="row">
+            <div class="col-md-4">
+                <input type="text" id="searchName" class="form-control" placeholder="Enter book name">
+            </div>
+            <div class="col-md-4">
+                <input type="number" id="searchPrice" class="form-control" placeholder="Enter max price">
+            </div>
+            <div class="col-md-4">
+                <button class="btn btn-primary" onclick="getAllItems()">Search</button>
+            </div>
+        </div>
+    </div>
+
     <br />
 	<h4 class="text-uppercase text-center ">BOOK MANAGEMENT</h4>
 	<hr />
@@ -41,24 +56,47 @@ var itemList = [];
 var selectedItem = null;
 var selectedIndex = -1;
 
-var getAllItems = function() {
+// var getAllItems = function() {
 
-	$("#flexbox_items").show();
-    $("#loading").show();
+// 	$("#flexbox_items").show();
+//     $("#loading").show();
 
-	$.get(baseUrl + "Books", function(data, status)
-	{
-        if (status == "success") {
-			$("#loading").hide(0.5);
-            itemList = data;
-            console.log(itemList);
-            renderItems(itemList);
-        }
-        else {
-            alert(data);
-		}
-	});
-}
+// 	$.get(baseUrl + "Books", function(data, status)
+// 	{
+//         if (status == "success") {
+// 			$("#loading").hide(0.5);
+//             itemList = data;
+//             console.log(itemList);
+//             renderItems(itemList);
+//         }
+//         else {
+//             alert(data);
+// 		}
+// 	});
+// }
+        var getAllItems = function () {
+            $("#flexbox_items").show();
+            $("#loading").show();
+
+            var name = $("#searchName").val();
+            var price = $("#searchPrice").val();
+
+            var url = baseUrl + "Books/search?"; // 🔹 Đổi từ "Books?" thành "Books/search?"
+            if (name) url += `title=${encodeURIComponent(name)}&`; // 🔹 Đổi "name" thành "title"
+            if (price) url += `price=${price}&`;
+
+            $.get(url, function (data, status) {
+                if (status == "success") {
+                    $("#loading").hide();
+                    itemList = data;
+                    renderItems(itemList);
+                } else {
+                    alert("Failed to fetch data.");
+                }
+            });
+        };
+
+
 
 var renderItems = function(dataset) {
             

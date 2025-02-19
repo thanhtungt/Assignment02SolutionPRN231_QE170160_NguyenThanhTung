@@ -106,6 +106,34 @@ namespace WebApi.Controllers
                 return StatusCode(500, ex.Message);
             }
         }
+        [HttpGet("search")]
+        [EnableQuery]
+        public IActionResult SearchBooks([FromQuery] string? title, [FromQuery] decimal? price)
+        {
+            try
+            {
+                var books = _context.Books.Include(b => b.Publisher).AsQueryable();
+
+                if (!string.IsNullOrEmpty(title))
+                {
+                    books = books.Where(b => b.Title.Contains(title));
+                }
+
+                if (price.HasValue)
+                {
+                    books = books.Where(b => b.Price <= price);
+                }
+
+                BookDTO[] bookDTOs = _mapper.Map<BookDTO[]>(books.ToArray());
+
+                return Ok(bookDTOs);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+            }
+        }
+
 
         [HttpPut]
         [Authorize(Roles = "Admin")]
