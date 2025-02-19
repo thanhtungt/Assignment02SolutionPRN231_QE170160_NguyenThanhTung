@@ -1,34 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\",
+  "WorkspaceRootPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\appenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\appenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7FB8D9-AFC8-4D4C-921E-AEA2038144DB}|WebClient\\WebClient.csproj|f:\\spring2025\\prn231\\ass2\\assignment02solutionprn231_qe170160_nguyenthanhtung\\webclient\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7FB8D9-AFC8-4D4C-921E-AEA2038144DB}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|f:\\spring2025\\prn231\\ass2\\bookmanagement\\datalayer\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F14DE18-6682-4C69-BB09-BB80A48B672F}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB7FB8D9-AFC8-4D4C-921E-AEA2038144DB}|WebClient\\WebClient.csproj|f:\\spring2025\\prn231\\ass2\\assignment02solutionprn231_qe170160_nguyenthanhtung\\webclient\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7FB8D9-AFC8-4D4C-921E-AEA2038144DB}|WebClient\\WebClient.csproj|solutionrelative:webclient\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,88 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppEnum.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppEnum.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\AppEnum.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppEnum.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\AppEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebClient\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebClient\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebClient\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebClient\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:35.636Z",
+              "WhenOpened": "2025-02-19T08:14:51.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Publisher.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\Publisher.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Publisher.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:48:09.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookAuthor.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\BookAuthor.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\BookAuthor.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\BookAuthor.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\BookAuthor.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:48:05.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Book.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\Book.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Book.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\Book.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:48:01.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Author.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Author.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\Author.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\Author.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\Author.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:47:56.541Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppUser.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\AppUser.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppUser.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\AppUser.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:47:52.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppRole.cs",
-              "RelativeDocumentMoniker": "DataLayer\\Domain\\AppRole.cs",
-              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\Domain\\AppRole.cs",
-              "RelativeToolTip": "DataLayer\\Domain\\AppRole.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T07:47:29.862Z"
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebClient\\Views\\Users\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebClient\\Views\\Users\\Profile.cshtml",
+              "ToolTip": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebClient\\Views\\Users\\Profile.cshtml",
+              "RelativeToolTip": "WebClient\\Views\\Users\\Profile.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T08:13:34.681Z",
+              "EditorCaption": ""
             }
           ]
         }

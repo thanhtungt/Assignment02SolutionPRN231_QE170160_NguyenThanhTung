@@ -9,67 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebClient
 build_property.RootNamespace = WebClient
-build_property.ProjectDir = F:\SPRING2025\PRN231\ass2\BookManagement\WebClient\
+build_property.ProjectDir = F:\SPRING2025\PRN231\ass2\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\WebClient\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\SPRING2025\PRN231\ass2\BookManagement\WebClient
+build_property.MSBuildProjectDirectory = F:\SPRING2025\PRN231\ass2\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\WebClient
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Authors/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Authors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Books/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Books/_BookCreate.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Books/_BookCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcX0Jvb2tDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Home/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Home/Privacy.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Login/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Publishers/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Publishers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Shared/Error.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Shared/_Layout.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Users/Index.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/Users/Register.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Users/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/Users/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/_ViewImports.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SPRING2025/PRN231/ass2/BookManagement/WebClient/Views/_ViewStart.cshtml]
+[F:/SPRING2025/PRN231/ass2/Assignment02SolutionPRN231_QE170160_NguyenThanhTung/WebClient/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

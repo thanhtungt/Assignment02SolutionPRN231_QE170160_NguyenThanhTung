@@ -16,6 +16,12 @@ namespace WebClient.Controllers
             return View();
         }
 
+        //[Authorize(Roles = "User")]
+        public IActionResult Profile()
+        {
+            return View();
+        }
+
         public IActionResult Register()
         {
             return View();

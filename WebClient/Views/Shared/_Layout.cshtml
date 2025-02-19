@@ -84,7 +84,7 @@
 
                                 <ul class="navbar-nav ms-auto col-6 d-flex justify-content-end">
                                     <li class="nav-item">
-                                        <a class="nav-link text-white" asp-area="" asp-page="/UserPages/Profile">Wellcome, @auth.User.Email!</a>
+                                        <a class="nav-link text-white" asp-controller="Users" asp-action="Profile">Wellcome, @auth.User.Email!</a>
                                     </li>
                                     <li class="nav-item mt-1 ml-1">
                                         <a asp-controller="Logout" asp-action="Index">

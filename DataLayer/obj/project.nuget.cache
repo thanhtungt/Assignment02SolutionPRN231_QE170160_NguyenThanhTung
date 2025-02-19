@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jpN1lG6Lh5c=",
+  "dgSpecHash": "UAyq7g6HL2I=",
   "success": true,
-  "projectFilePath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj",
+  "projectFilePath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

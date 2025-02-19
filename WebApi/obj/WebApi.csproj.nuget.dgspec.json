@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\WebApi\\WebApi.csproj": {}
+    "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj": {
+    "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj",
+        "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\obj\\",
+        "outputPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\WebApi\\WebApi.csproj": {
+    "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\WebApi\\WebApi.csproj",
+        "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\WebApi\\obj\\",
+        "outputPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -120,8 +120,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj": {
-                "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\BookManagement\\DataLayer\\DataLayer.csproj"
+              "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj": {
+                "projectPath": "F:\\SPRING2025\\PRN231\\ass2\\Assignment02SolutionPRN231_QE170160_NguyenThanhTung\\DataLayer\\DataLayer.csproj"
               }
             }
           }
